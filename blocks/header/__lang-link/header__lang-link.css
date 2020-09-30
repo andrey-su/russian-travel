@@ -1,0 +1,18 @@
+.header__lang-link {
+    max-width: 30px;
+    max-height: 28px;
+    margin-right: 18px;
+    color:#FFFFFF;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 24px;
+}
+
+.header__lang-link:hover{
+    text-decoration:underline;
+}
+
+/*.header__lang-link:last-of-type {
+    margin-right: 0px;
+}*/
+
