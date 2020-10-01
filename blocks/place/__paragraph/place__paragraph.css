@@ -1,0 +1,14 @@
+.place__paragraph {
+    max-width: 484px;
+    max-height: auto;
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 400;
+    display:block;
+    margin:0;
+    margin-top: 24px;
+}
+
+.place__paragraph:first-of-type {
+    margin-top:0;
+}

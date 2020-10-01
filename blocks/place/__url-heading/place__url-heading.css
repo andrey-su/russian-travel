@@ -1,0 +1,9 @@
+.place__url-heading {
+    max-width: 465px;
+    max-height: 12px;
+    font-size: 12px;
+    line-height: 12px;
+    font-weight: 400;
+    margin:0;
+    color: #aaaaaa;
+}

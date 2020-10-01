@@ -3,4 +3,11 @@
     padding-top: 28px;
     margin:auto;
     font-family:'inter', arial, sans-serif;
+    color:#fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
     }

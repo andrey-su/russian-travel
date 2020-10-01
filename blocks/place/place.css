@@ -1,4 +1,12 @@
 .place {
     max-width: 984px;
-    max-height: auto;
+    max-height: 660px;
+    margin-top:80px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.place:first-of-type {
+    margin-top:0;
 }
