@@ -1,5 +1,9 @@
 .cover__overlay {
+height: 100%;
 color: #ffffff;
 text-decoration: none;
 position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
 };

@@ -12,3 +12,28 @@
 .place__paragraph:first-of-type {
     margin-top:0;
 }
+
+@media screen and (max-width:1279px) {
+    .place__paragraph{
+        max-width: 456px;
+
+       }
+   }
+
+@media screen and (max-width:1023px) {
+    .place__paragraph {
+        max-width: 352px;
+        font-size: 16px;
+        line-height: 26px;
+   }
+}
+
+@media screen and (max-width:767px) {
+    .place__paragraph {
+        max-width: 288px;
+   }
+
+   .place__paragraph:first-of-type {
+    margin-top:24px;
+   }
+}

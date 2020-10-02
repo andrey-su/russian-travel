@@ -10,6 +10,6 @@
     top:0;
 }
 
-.cover__background:hover {
-    opacity: .3;
+.cover__background::before {
+     opacity: .3;
 }
