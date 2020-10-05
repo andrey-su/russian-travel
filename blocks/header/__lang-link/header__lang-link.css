@@ -9,13 +9,6 @@
     line-height: 28px;
 }
 
-.header__lang-link:hover{
-    text-decoration:underline;
-}
-
-/*.header__lang-link:last-of-type {
-    margin-right: 0px;
-}*/
 
 @media screen and (max-width:767px) {
     .header__lang-link {

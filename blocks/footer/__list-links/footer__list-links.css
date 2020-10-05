@@ -4,3 +4,9 @@
     padding-left:0;
     display: flex;
 }
+
+@media screen and (max-width:767px) {
+    .footer__list-links {
+       flex-direction: column;
+}
+}

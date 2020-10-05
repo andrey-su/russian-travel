@@ -1,0 +1,15 @@
+.footer__list-item {
+    margin-right: 18px;
+}
+
+@media screen and (max-width:767px) {
+    .footer__list-item {
+       margin:0;
+       margin-top: 32px;
+      }
+
+      .footer__list-item:first-of-type{
+         margin-top: 0px;
+      }
+
+}
