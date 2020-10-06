@@ -1,8 +1,10 @@
 .footer__list-links {
+    width: 100%;
     list-style-type:none;
     margin:0;
     padding-left:0;
     display: flex;
+    justify-content: space-between;
 }
 
 @media screen and (max-width:767px) {

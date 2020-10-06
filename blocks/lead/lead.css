@@ -18,10 +18,3 @@
        margin:0;
     }
 }
-
-@media screen and (max-width: 767px) {
-    .lead {
-       max-width: 100%;
-       padding-top: 48px;
-    }
-}
